@@ -1,1 +1,1 @@
-# Djikstra-s-Maze-Solver
+# Djikstras-Maze-Solver
